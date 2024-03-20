@@ -1,0 +1,4 @@
+DHT11.c:11:6:usDelay	2
+DHT11.c:19:6:SetInput	1
+DHT11.c:32:6:SetOutput	1
+DHT11.c:45:9:DHT11_Read	24

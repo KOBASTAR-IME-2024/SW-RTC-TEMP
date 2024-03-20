@@ -1,0 +1,11 @@
+Nokia5110.c:11:6:Nokia5110_Init	7
+Nokia5110.c:37:6:Nokia5110_Update	3
+Nokia5110.c:52:6:Nokia5110_Reset	1
+Nokia5110.c:60:6:Nokia5110_Clear	2
+Nokia5110.c:67:6:Nokia5110_SetPixel	4
+Nokia5110.c:90:6:setPixel	1
+Nokia5110.c:97:6:clearPixel	1
+Nokia5110.c:103:6:setChar	4
+Nokia5110.c:120:6:Nokia5110_setStr	4
+Nokia5110.c:140:6:Nokia5110_Write	3
+Nokia5110.c:160:7:Nokia5110_BufferWrite	1

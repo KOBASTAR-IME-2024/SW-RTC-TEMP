@@ -1,0 +1,4 @@
+ds1307.c:10:9:DecToBCD	1
+ds1307.c:15:5:BCDToDec	1
+ds1307.c:20:6:getTime	1
+ds1307.c:36:6:setTime	1

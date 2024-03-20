@@ -1,0 +1,4 @@
+../Core/Src/ds1307.c:10:9:DecToBCD	16	static
+../Core/Src/ds1307.c:15:5:BCDToDec	16	static
+../Core/Src/ds1307.c:20:6:getTime	40	static
+../Core/Src/ds1307.c:36:6:setTime	48	static
