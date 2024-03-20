@@ -4,7 +4,8 @@
 Bu proje, Nucleo-F103RB Geliştirme Kartı ile DS1307-RTC modülü ve DHT11 Nem/Sıcaklık sensörü kullanılarak I2C, SPI ve 1-Wire haberleşme protokolleriyle entegre edilmiştir. Sonuç olarak, saat, tarih, nem ve sıcaklık değerleri 84x48 Grafik LCD üzerinde gösterilmiştir.
 
 
-![ds1307](https://github.com/KOBASTAR-IME-2024/Proje_1/assets/115595244/ba90ad19-dae5-430f-be0a-cd9840695d22)
+![ds1307](https://github.com/KOBASTAR-IME-2024/proje1_sw/assets/115595244/ba5bbc0b-73fe-4a46-aae0-f0b7a5ac87f0)
+
 
 
 
