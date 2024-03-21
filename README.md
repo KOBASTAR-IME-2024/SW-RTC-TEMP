@@ -24,4 +24,4 @@ Bu proje, Nucleo-F103RB Geliştirme Kartı ile DS1307-RTC modülü ve DHT11 Nem/
 + DIN PB15 SPI2_MOSI
 + CLK PB13 SPI2_SCK
 
-![rtc-temp_bb](https://github.com/KOBASTAR-IME-2024/RTC-Temp_SW/assets/115595244/4fbb12c4-118b-474a-8e58-d5ba2224a88b)
+![rtc-temp_bb](https://github.com/KOBASTAR-IME-2024/RTC-Temp_SW/assets/115595244/fb25a37b-61c2-47cf-87c8-2ed39165c9d3)
