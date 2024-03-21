@@ -17,13 +17,17 @@ Bu proje, Nucleo-F103RB Geliştirme Kartı ile DS1307-RTC modülü ve DHT11 Nem/
 | PB9 | I2C1_SDA  |
   
 ### DHT11:
-* PB3 DHT11_SENS
+| PIN | PIN LABEL  |
+| --- | ---------- |
+| PB3 | DHT11_SENS |
   
 ### Nokia5110:
-+ RST PB10
-+ CE  PA8
-+ DC  PB4
-+ DIN PB15 SPI2_MOSI
-+ CLK PB13 SPI2_SCK
+| Module Designations | PIN  | PIN LABEL |
+| ------------------- | ---  | --------- |
+| RST                 | PB10 | RST       |     
+| CE                  | PA8  | CE        |
+| DC                  | PB4  | DC        |
+| DIN                 | PB15 | SPI2_MOSI |
+| CLK                 | PB13 | SPI2_SCK  |
 
 ![rtc-temp_bb](https://github.com/KOBASTAR-IME-2024/RTC-Temp_SW/assets/115595244/fb25a37b-61c2-47cf-87c8-2ed39165c9d3)
