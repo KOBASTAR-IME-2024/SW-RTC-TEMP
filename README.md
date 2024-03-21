@@ -11,8 +11,10 @@ Bu proje, Nucleo-F103RB Geliştirme Kartı ile DS1307-RTC modülü ve DHT11 Nem/
 
 ## PINOUT
 ### DS1307-RTC:
-- PB8 I2C1_SCL
-- PB9 I2C1_SDA
+| PIN | PIN LABEL |
+| --- | --------- |
+| PB8 | I2C1_SCL  |
+| PB9 | I2C1_SDA  |
   
 ### DHT11:
 * PB3 DHT11_SENS
