@@ -1,4 +1,4 @@
-# RTC-TEMP_SW
+# SW-RTC-TEMP
 
 ## Zaman ve Çevresel Değerlerin Takibi: RTC-DS1307 ve DHT11 ile Nokia5110 Ekranda Gösterim
 Bu proje, Nucleo-F103RB Geliştirme Kartı ile DS1307-RTC modülü ve DHT11 Nem/Sıcaklık sensörü kullanılarak I2C, SPI ve 1-Wire haberleşme protokolleriyle entegre edilmiştir. Sonuç olarak, saat, tarih, nem ve sıcaklık değerleri 84x48 Grafik LCD üzerinde gösterilmiştir.
